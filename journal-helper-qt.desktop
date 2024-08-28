@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Journal Helper
+Comment=QT App for Journalctl
+Icon=preferences-system
+Exec=journal-helper-qt
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=QT;Plasma;System;
+Keywords=Systemd;Journalctl;
