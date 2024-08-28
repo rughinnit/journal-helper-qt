@@ -92,5 +92,6 @@ build() {
 package() {
   cd "$pkgname/build"
   install -Dm755 journal-helper-qt "$pkgdir/usr/bin/journal-helper-qt"
+  cd ..
   install -Dm644 journal-helper-qt.desktop -t "$pkgdir/usr/share/applications"
 }
