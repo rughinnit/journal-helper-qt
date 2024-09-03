@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 14.0.0, 2024-08-27T20:45:04. -->
+<!-- Written by QtCreator 14.0.0, 2024-09-03T15:02:52. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -244,8 +244,8 @@
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
     <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph dwarf,4096 -F 250</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/mnt/Data/Documents/QT APP/journal-helper-qt-cpp/journal-helper-qt-cpp.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/mnt/Data/Documents/QT APP/journal-helper-qt-cpp/journal-helper-qt-cpp.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/arch/Documents/GitHub/journal-helper-qt/journal-helper-qt.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/arch/Documents/GitHub/journal-helper-qt/journal-helper-qt.pro</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
